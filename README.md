@@ -3,7 +3,7 @@
 
 ## Example (Optional)
 
-```javascript
+```
 rem # "echo off" prevents displaying all the commands on the screen, the "@" symbol prevents showing the echo off command.
 @echo off
 rem # "set result_file" creates a variable that stores the output messages given from the *.sql files.
